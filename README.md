@@ -15,11 +15,11 @@
 
 <br>
 
-- Android Mobile Developer
-- Ingeniera en Automatizacion  y Robotica
-- Artista Generalista Autodidactta
-- Apasionada del Conocimiento
-- Hobbies: desarrollar nuevas habilidades,cantar, bailar, needle felting, crochet, ilustracion Analoga/Digital, Animacion 2D/StopMotion, ver Series Anime, leer Mangas, escribir, k-pop, J-pop , k-drama.
+- Android Mobile Developer ✨📱
+- Ingeniera en Automatizacion  y Robotica ✨🦾
+- Artista Generalista Autodidactta ✨✒️✏️🖌️
+- Apasionada del Conocimiento ✨📚
+- Hobbies: desarrollar nuevas habilidades,cantar, bailar, needle felting, crochet, ilustracion Analoga/Digital, Animacion 2D/StopMotion, ver Series Anime, leer Mangas, escribir, k-pop, J-pop , k-drama.✨
 
 <br><br>
 
@@ -31,18 +31,20 @@
 <p align="center">
 
 - **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+  
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
+    ![Kotlin](https://img.shields.io/badge/KOTLIN-brightgreen?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&color=F2836B)
+    ![Java](https://img.shields.io/badge/JAVA-brightgreen?style=for-the-badge&logo=java&labelColor=EE212A-148DCB&color=E2353E)
+    ![C#](https://img.shields.io/badge/C%20Sharp-brightgreen?style=for-the-badge&logo=csharp&color=9E559A)
+    ![SQL](https://img.shields.io/badge/SQL-brightgreen?style=for-the-badge&logo=sql&color=F89B24)
 <br>   
     
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<!---    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  -->
 
 <br>
 
