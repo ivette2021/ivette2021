@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , Soy Ivette Valdivia Gomez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=F2836B&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%22Una+Composicion+de+diversos+elementos%2C;forman+un+rompecabeza+sin+fin....%22;%F0%9F%8C%B1+%C2%B0+++%F0%9F%8C%BF++++++%C2%B0++%F0%9F%8C%B3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2000&pause=1000&color=F2836B&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%22Una+Composicion+de+diversos+elementos%2C;forman+un+rompecabeza+sin+fin....%22;%F0%9F%8C%B1+%C2%B0+++%F0%9F%8C%BF++++++%C2%B0++%F0%9F%8C%B3" alt="Typing SVG" /></a>
 </p>
 
 
