@@ -17,6 +17,7 @@
 <br>
 
 - Android Mobile Developer ✨📱
+- Ux Design ✨📱
 - Ingeniera en Automatizacion  y Robotica ✨🦾
 - Artista Generalista Autodidactta ✨✒️✏️🖌️
 - Apasionada del Conocimiento ✨📚
