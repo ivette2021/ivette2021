@@ -2,7 +2,12 @@
 <!--  -->
 <img src="https://github.com/ivette2021/ivette2021/raw/main/ihivikobanner.png" alt="Texto alternativo" width="1350" height="250">
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2000&pause=1000&color=F2836B&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%22Una+Composicion+de+diversos+elementos%2C;forman+un+rompecabeza+sin+fin....%22;%F0%9F%8C%B1+%C2%B0+++%F0%9F%8C%BF++++++%C2%B0++%F0%9F%8C%B3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2000&pause=1000&color=F2836B&center=true&vCenter=true&multiline=true&width=550&height=100&lines=%22Soy+una+persona+versátil...%22;%F0%9F%8C%B1+%C2%B0+++%F0%9F%8C%BF++++++%C2%B0++%F0%9F%8C%B3;%22Me+encanta+aprender+cosas+nuevas.%22" alt="Typing SVG" />
+</a>
+
+</a>
+
 </p>
 
 
@@ -46,7 +51,7 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<!---    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  -->
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 
 <br>
 
@@ -70,10 +75,9 @@
 
 <br>
 
-<!--**Extras**:
+**Extras**: 
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)     -->
+![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 </p>
