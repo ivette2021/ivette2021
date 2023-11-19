@@ -10,14 +10,9 @@
 
 </p>
 
-
 <br>
-
-
-
 	
 ## **Acerca de mi**
-
 
 <br>
 
@@ -28,9 +23,8 @@
 - Apasionada del Conocimiento ✨📚
 - Hobbies: desarrollar nuevas habilidades,cantar, bailar, needle felting, crochet, ilustracion Analoga/Digital, Animacion 2D/StopMotion, ver Series Anime, leer Mangas, escribir, k-pop, J-pop , k-drama.✨
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -103,13 +97,25 @@
 <img src="https://img.shields.io/badge/twitter:  IvetteCValdivia-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
-
 	
 </ul>
 </div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/ivette2021/">
+  <img src="https://github-readme-stats.vercel.app/api?username=ivette2021&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivette2021&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ivette2021"/>
+
+</a>
+</div>
 <br>
 <br>
 <br>
